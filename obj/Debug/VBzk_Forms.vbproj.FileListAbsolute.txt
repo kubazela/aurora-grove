@@ -1,0 +1,14 @@
+C:\Users\zelen\source\repos\VBzk_Forms\bin\Debug\VBzk_Forms.exe.config
+C:\Users\zelen\source\repos\VBzk_Forms\bin\Debug\VBzk_Forms.exe
+C:\Users\zelen\source\repos\VBzk_Forms\bin\Debug\VBzk_Forms.pdb
+C:\Users\zelen\source\repos\VBzk_Forms\bin\Debug\VBzk_Forms.xml
+C:\Users\zelen\source\repos\VBzk_Forms\obj\Debug\VBzk_Forms.vbprojAssemblyReference.cache
+C:\Users\zelen\source\repos\VBzk_Forms\obj\Debug\VBzk_Forms.Form1.resources
+C:\Users\zelen\source\repos\VBzk_Forms\obj\Debug\VBzk_Forms.Resources.resources
+C:\Users\zelen\source\repos\VBzk_Forms\obj\Debug\VBzk_Forms.vbproj.GenerateResource.cache
+C:\Users\zelen\source\repos\VBzk_Forms\obj\Debug\VBzk_Forms.vbproj.CoreCompileInputs.cache
+C:\Users\zelen\source\repos\VBzk_Forms\obj\Debug\VBzk_Forms.exe
+C:\Users\zelen\source\repos\VBzk_Forms\obj\Debug\VBzk_Forms.xml
+C:\Users\zelen\source\repos\VBzk_Forms\obj\Debug\VBzk_Forms.pdb
+C:\Users\zelen\source\repos\VBzk_Forms\obj\Debug\Interop.Scripting.dll
+C:\Users\zelen\source\repos\VBzk_Forms\obj\Debug\VBzk_Forms.vbproj.ResolveComReference.cache
